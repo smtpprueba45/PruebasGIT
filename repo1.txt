@@ -1,2 +1,4 @@
 fichero repo1
 nuevo dato repo1
+Cambio 1 desde la rama pruebas
+Otro cambio desde pruebas
